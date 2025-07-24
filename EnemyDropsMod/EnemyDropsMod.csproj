@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<AssemblyName>REPO_Enemy_Drops</AssemblyName>
+		<Description>Um mod que faz inimigos soltarem itens ao serem derrotados</Description>
+		<Version>1.0.0</Version>
+		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+		<LangVersion>latest</LangVersion>
+		<!-- Desativa geração automática de atributos de assembly -->
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<!-- Ignora conflitos de referência do assembly -->
+		<ResolveAssemblyWarnOrErrorOnTargetArchitectureMismatch>None</ResolveAssemblyWarnOrErrorOnTargetArchitectureMismatch>
+	</PropertyGroup>
+
+	<!-- Referências diretas para as DLLs -->
+	<ItemGroup>
+		<Reference Include="BepInEx">
+			<HintPath>Libs\BepInEx.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="0Harmony">
+			<HintPath>Libs\0Harmony.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="REPOLib">
+			<HintPath>Libs\REPOLib.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="UnityEngine">
+			<HintPath>Libs\UnityEngine.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="UnityEngine.CoreModule">
+			<HintPath>Libs\UnityEngine.CoreModule.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="UnityEngine.PhysicsModule">
+			<HintPath>Libs\UnityEngine.PhysicsModule.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="PhotonUnityNetworking">
+			<HintPath>Libs\PhotonUnityNetworking.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="Assembly-CSharp">
+			<HintPath>Libs\Assembly-CSharp.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="UnityEngine.TextRenderingModule">
+			<HintPath>Libs\UnityEngine.TextRenderingModule.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+	</ItemGroup>
+
+	<!-- Suprime o aviso de conflito de versão do netstandard -->
+	<PropertyGroup>
+		<NoWarn>$(NoWarn);MSB3277;CS1705;IDE0044;IDE0051</NoWarn>
+	</PropertyGroup>
+</Project>

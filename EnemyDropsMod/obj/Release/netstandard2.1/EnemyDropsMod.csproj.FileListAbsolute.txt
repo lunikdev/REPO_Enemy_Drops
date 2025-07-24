@@ -1,0 +1,8 @@
+C:\Users\leandro\source\repos\EnemyDropsMod\EnemyDropsMod\bin\Release\netstandard2.1\REPO_Enemy_Drops.deps.json
+C:\Users\leandro\source\repos\EnemyDropsMod\EnemyDropsMod\bin\Release\netstandard2.1\REPO_Enemy_Drops.dll
+C:\Users\leandro\source\repos\EnemyDropsMod\EnemyDropsMod\bin\Release\netstandard2.1\REPO_Enemy_Drops.pdb
+C:\Users\leandro\source\repos\EnemyDropsMod\EnemyDropsMod\obj\Release\netstandard2.1\EnemyDropsMod.csproj.AssemblyReference.cache
+C:\Users\leandro\source\repos\EnemyDropsMod\EnemyDropsMod\obj\Release\netstandard2.1\EnemyDropsMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro\source\repos\EnemyDropsMod\EnemyDropsMod\obj\Release\netstandard2.1\EnemyDropsMod.csproj.CoreCompileInputs.cache
+C:\Users\leandro\source\repos\EnemyDropsMod\EnemyDropsMod\obj\Release\netstandard2.1\REPO_Enemy_Drops.dll
+C:\Users\leandro\source\repos\EnemyDropsMod\EnemyDropsMod\obj\Release\netstandard2.1\REPO_Enemy_Drops.pdb

@@ -1,0 +1,5 @@
+C:\Users\leandro\source\repos\EnemyDropsMod\EnemyDropsMod\obj\Release\netstandard2.0\EnemyDropsMod.csproj.AssemblyReference.cache
+C:\Users\leandro\source\repos\EnemyDropsMod\EnemyDropsMod\obj\Release\netstandard2.0\EnemyDropsMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro\source\repos\EnemyDropsMod\EnemyDropsMod\obj\Release\netstandard2.0\EnemyDropsMod.AssemblyInfoInputs.cache
+C:\Users\leandro\source\repos\EnemyDropsMod\EnemyDropsMod\obj\Release\netstandard2.0\EnemyDropsMod.AssemblyInfo.cs
+C:\Users\leandro\source\repos\EnemyDropsMod\EnemyDropsMod\obj\Release\netstandard2.0\EnemyDropsMod.csproj.CoreCompileInputs.cache
